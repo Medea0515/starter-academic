@@ -30,7 +30,7 @@ experience:
     date_end: ''
 
   - title: Undergraduate Student
-    company: Pennsylvania State Univeristy
+    company: Pennsylvania State University
     company_url: ''
     location: State College, PA
     date_start: '2016-08-01'

@@ -14,7 +14,6 @@ organizations:
   url: https://case.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -62,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-I'm a current MS student in the Biostatistics & Epidemiology Program at Case Western Reserve Univeristy. I finished my udergraduate study in Applied Statistics at Pennsylvania State University.
+I'm a current MS student in the Biostatistics & Epidemiology Program at Case Western Reserve University. I finished my undergraduate study in Applied Statistics at Pennsylvania State University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
