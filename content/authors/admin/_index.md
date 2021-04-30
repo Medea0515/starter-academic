@@ -25,7 +25,7 @@ education:
   courses:
   - course: MS in Biostatistics & Epidemiology
     institution: Case Western Reserve Univeristy
-    year: exp. 12/2021
+    year: in progress
   - course: BS in Applied Statistics
     institution: Pennsylvania State Univeristy
     year: 2020
